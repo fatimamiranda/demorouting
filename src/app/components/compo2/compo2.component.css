@@ -1,0 +1,12 @@
+/* Estilos para todos los elementos del tipo p*/
+
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 1200px;
+    margin: auto;
+}
+
+#idParrafo3{
+    color: rgb(80, 197, 193);
+}
